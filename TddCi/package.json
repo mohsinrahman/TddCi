@@ -1,0 +1,13 @@
+{
+  "name": "TddCi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.2"
+  },
+  "scripts": {
+    "test": "jest"
+}
+
+}
